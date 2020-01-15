@@ -1,0 +1,12 @@
+,country,description,designation,points,price,province,region_1,region_2,taster_name,taster_twitter_handle,title,variety,winery
+count,129908,129971,92506,129971.0,120975.0,129908,108724,50511,103727,98758,129971,129970,129971
+unique,43,119955,37979,,,425,1229,17,19,15,118840,707,16757
+top,US,"Gravenstein apple, honeysuckle and jasmine aromas show on the relatively boisterous nose of this bottling from a large vineyard on Highway 46 east of Paso Robles. There is compellingly grippy texture to the sip, with ripe flavors of pear and honeydew melon. A salty acidity takes it to the next level.",Reserve,,,California,Napa Valley,Central Coast,Roger Voss,@vossroger,Gloria Ferrer NV Sonoma Brut Sparkling (Sonoma County),Pinot Noir,Wines & Winemakers
+freq,54504,3,2009,,,36247,4480,11065,25514,25514,11,13272,222
+mean,,,,88.44713820775404,35.363389129985535,,,,,,,,
+std,,,,3.039730202916003,41.02221766808723,,,,,,,,
+min,,,,80.0,4.0,,,,,,,,
+25%,,,,86.0,17.0,,,,,,,,
+50%,,,,88.0,25.0,,,,,,,,
+75%,,,,91.0,42.0,,,,,,,,
+max,,,,100.0,3300.0,,,,,,,,
